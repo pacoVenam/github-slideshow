@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Updating text for exercise requirements.
 Use the left arrow to go back!
